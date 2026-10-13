@@ -52,7 +52,7 @@ For any passage, the following types of questions will be asked.
 
 (📖📖📖📖📖📖📖 Now read through the passage very first (skimming). Spend 3–5 minutes max; for passage 3, you may need 6 minutes. You should highlight important things like person names, place names, passage context, etc. You will get these contexts (what to highlight) while you read the questions initially for 30 seconds.)
 
-(➡️➡️➡️➡️➡️➡️➡️ Answer **ORDERED** questions first. Not True / False / Not Given or Yes / No / Not Given.)
+(➡️➡️➡️➡️➡️➡️➡️ Answer **ORDERED** questions first. Not "True / False / Not Given or Yes / No / Not Given".)
 
 While looking for these answers, you will have a much better understanding of the text or passage. Like what it is about, what each paragraph talks about.
 
