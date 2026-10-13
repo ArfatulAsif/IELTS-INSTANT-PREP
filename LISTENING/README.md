@@ -118,7 +118,7 @@ Or MCQ + matching sentences.
 
  ## Part 2 and 3 Matching Sentences Questions
 
- Practice them properly.
+ Practice them properly. You need to read both the incomplete sentences and all their unmatched halves as well.
 
  # Where to Practice
 
